@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="someBugs:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/someBugs_war_exploded</output-path>
+  <artifact type="exploded-war" name="TrainManager:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrainManager_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="someBugs/web/Web" />
+      <element id="javaee-facet-resources" facet="TrainManager/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="someBugs" />
+          <element id="module-output" name="TrainManager" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Hibernate 5.2.12-5.2.12" />
